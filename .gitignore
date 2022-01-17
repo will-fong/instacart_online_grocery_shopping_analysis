@@ -87,4 +87,4 @@ target/
 
 # Mypy cache
 .mypy_cache/
-notebooks/light_predictions.csv
+models/light_predictions.csv
