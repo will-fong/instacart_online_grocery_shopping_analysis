@@ -1,7 +1,11 @@
 instacart_online_grocery_shopping_analysis
 ==============================
 
-Instacart’s data science team plays a big part in providing this delightful shopping experience. Currently they use transactional data to develop models that predict which products a user will buy again, try for the first time, or add to their cart next during a session. 
+Instacart’s data science team plays a big part in providing this delightful shopping experience. Currently they use transactional data to develop models that predict which products a user will buy again, try for the first time, or add to their cart next during a session.
+
+Previews of the notebooks in this repository:
+1. [Instacart Online Grocery Shopping Analysis](https://nbviewer.org/github/will-fong/instacart_online_grocery_shopping_analysis/blob/master/notebooks/1.1-instacart-analysis-using-polars.ipynb)
+2. [Instacart Online Grocery Shopping Prediction Modelling](https://nbviewer.org/github/will-fong/instacart_online_grocery_shopping_analysis/blob/master/notebooks/2.0-instacart-modelling.ipynb)
 
 Project Organization
 ------------
